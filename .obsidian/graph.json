@@ -1,0 +1,114 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "SoKF",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "Моды",
+      "color": {
+        "a": 1,
+        "rgb": 25343
+      }
+    },
+    {
+      "query": "Лор",
+      "color": {
+        "a": 1,
+        "rgb": 16514816
+      }
+    },
+    {
+      "query": "Город  ",
+      "color": {
+        "a": 1,
+        "rgb": 15597823
+      }
+    },
+    {
+      "query": "path:SoKF/Общее/Город/Ад  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:SoKF/Общее/Город/Энд  ",
+      "color": {
+        "a": 1,
+        "rgb": 10879231
+      }
+    },
+    {
+      "query": "path:SoKF/Общее/Город/Мир/Город/Регионы  ",
+      "color": {
+        "a": 1,
+        "rgb": 11777023
+      }
+    },
+    {
+      "query": "path:SoKF/Общее/Город/Мир/Город/Районы  ",
+      "color": {
+        "a": 1,
+        "rgb": 6492754
+      }
+    },
+    {
+      "query": "Пророчество",
+      "color": {
+        "a": 1,
+        "rgb": 16753152
+      }
+    },
+    {
+      "query": "Игроки",
+      "color": {
+        "a": 1,
+        "rgb": 6867642
+      }
+    },
+    {
+      "query": "path:SoKF/Игроки/Беженцы  ",
+      "color": {
+        "a": 1,
+        "rgb": 7362339
+      }
+    },
+    {
+      "query": "path:SoKF/Игроки/Путешественники/Killerboy",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:SoKF/Игроки/Путешественники  ",
+      "color": {
+        "a": 1,
+        "rgb": 3394685
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 0.993229166666667,
+  "lineSizeMultiplier": 5,
+  "collapse-forces": false,
+  "centerStrength": 0.416666666666667,
+  "repelStrength": 13.125,
+  "linkStrength": 1,
+  "linkDistance": 101,
+  "scale": 0.47888815587391415,
+  "close": true
+}

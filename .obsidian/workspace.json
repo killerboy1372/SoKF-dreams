@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "34638de2d2ae78f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e9fdd56ed1b1df3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0484a1900052e02b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "779076c83a392198",
+    "type": "split",
+    "children": [
+      {
+        "id": "8def75c1a026e9da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fea171aaeebf5181",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "c209f18b41520be5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "4d99b26b16acbb3e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 271.5
+  },
+  "right": {
+    "id": "c0a3c0bb35ce4e59",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d8ee1e894e1f427",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a32ac23368c187d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "a408484d19ce95c3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "c79997fd483ad8bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "a6430572c1e350fc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "318cf349a1cfd492",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 711.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Создать новую базу": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "fea171aaeebf5181",
+  "lastOpenFiles": [
+    "SoKF/Игроки/Беженцы/GTpanik.md",
+    "SoKF/Игроки/Беженцы/pr1nc1.md",
+    "SoKF/Игроки/Беженцы/chacknoris158.md",
+    "SoKF/SOKF.md",
+    "SoKF/Общее/Лор/Предсезон/Предсюжет.md",
+    "SoKF/Общее/Лор/Сезон 1/Сюжет 1.md",
+    "SoKF/Общее/Моды/Великие изобретения.md",
+    "SoKF/Игроки/Путешественники/killerboy1372.md",
+    "SoKF/Игроки/Путешественники/Путешественники.md",
+    "SoKF/Общее/Моды/Моды.md",
+    "SoKF/Общее/Моды/Временный мод.md",
+    "SoKF/Общее/Моды/Элементальные реакции.md",
+    "SoKF/Общее/Город/Мир/Город/Внедорожники/Башня Обмана.md",
+    "SoKF/Общее/Город/Мир/Город/Внедорожники/Внедорожники.md",
+    "SoKF/Общее/Город/Мир/Город/Внедорожники/Башня Испытаний.md",
+    "SoKF/Общее/Город/Мир/Город/Город.md",
+    "SoKF/Общее/Город/Мир/Город/Районы/Холод/Заводы.md",
+    "SoKF/Общее/Город/Мир/Город/Районы/Холод/Холод.md",
+    "SoKF/Общее/Город/Мир/Город/Внедорожники",
+    "SoKF/Общее/Город/Мир/Город/Районы/Холод/Баня.md",
+    "SoKF/Общее/Город/Мир/Город/Районы/Холод/Паровой Двигатель.md",
+    "SoKF/Общее/Город/Мир/Город/Районы/Холод/Склад.md",
+    "SoKF/Общее/Город/Мир/Город/Районы/Растения/Сады.md",
+    "SoKF/Общее/Город/Мир/Город/Районы/Растения/Растения.md",
+    "SoKF/Общее/Город/Мир/Город/Районы/Растения/Травм. пункт.md",
+    "SoKF/Общее/Город/Мир/Город/Районы/Растения/Переговорная.md",
+    "SoKF/Общее/Город/Мир/Город/Районы/Огонь/Арена.md",
+    "SoKF/Общее/Город/Пикси/Без названия",
+    "SoKF/Общее/Город/Пикси",
+    "SoKF/Игроки/Беженцы/Без названия",
+    "SoKF/Общее/Город/Ад/Хаб/Весна",
+    "SoKF/Общее/Город/Ад/Хаб/Зима",
+    "SoKF/Общее/Город/Ад/Хаб/Осень",
+    "SoKF/Общее/Город/Ад/Хаб/Лето",
+    "SoKF/Общее/Город/Ад/Хаб",
+    "SoKF/Общее/Город/Ад/Ветки/Зеленая ветка",
+    "SoKF/Без названия.canvas",
+    "Без названия/Без названия.canvas"
+  ]
+}
