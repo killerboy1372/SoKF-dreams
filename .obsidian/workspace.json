@@ -92,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "poom.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +176,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "318cf349a1cfd492",
+  "active": "0484a1900052e02b",
   "lastOpenFiles": [
     "poom.md",
     "SoKF/Игроки/Беженцы/GTpanik.md",
