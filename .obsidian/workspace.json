@@ -161,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 711.5
+    "width": 467.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,7 +176,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "fea171aaeebf5181",
+  "active": "318cf349a1cfd492",
   "lastOpenFiles": [
     "SoKF/Игроки/Беженцы/GTpanik.md",
     "SoKF/Игроки/Беженцы/pr1nc1.md",
