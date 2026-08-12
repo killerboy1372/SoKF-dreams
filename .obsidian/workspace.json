@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2160b2e37e84668c",
+        "id": "c2253bd6f1fe490e",
         "type": "tabs",
         "children": [
           {
-            "id": "b374b4e88c95aca3",
+            "id": "227e144d0441a0a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 271.5
   },
   "right": {
     "id": "c0a3c0bb35ce4e59",
@@ -116,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NeraWork/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -145,7 +144,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NeraWork/Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -153,13 +151,23 @@
               "icon": "lucide-list",
               "title": "Структура"
             }
+          },
+          {
+            "id": "318cf349a1cfd492",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 467.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,12 +182,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "fea171aaeebf5181",
+  "active": "227e144d0441a0a3",
   "lastOpenFiles": [
     "NeraWork/Test.md",
     "NeraWork",
+    "SoKF/Общее/Моды/Временный мод.md",
     "poom.md",
-    "SoKF/Общее/Город/Мир/Город/Районы/Земля/Хранилище Документов.md",
     "SoKF/Игроки/Беженцы/GTpanik.md",
     "SoKF/Игроки/Беженцы/pr1nc1.md",
     "SoKF/Игроки/Беженцы/chacknoris158.md",
@@ -190,7 +198,6 @@
     "SoKF/Игроки/Путешественники/killerboy1372.md",
     "SoKF/Игроки/Путешественники/Путешественники.md",
     "SoKF/Общее/Моды/Моды.md",
-    "SoKF/Общее/Моды/Временный мод.md",
     "SoKF/Общее/Моды/Элементальные реакции.md",
     "SoKF/Общее/Город/Мир/Город/Внедорожники/Башня Обмана.md",
     "SoKF/Общее/Город/Мир/Город/Внедорожники/Внедорожники.md",
@@ -204,6 +211,7 @@
     "SoKF/Общее/Город/Мир/Город/Районы/Холод/Склад.md",
     "SoKF/Общее/Город/Мир/Город/Районы/Растения/Сады.md",
     "SoKF/Общее/Город/Мир/Город/Районы/Растения/Растения.md",
+    "SoKF/Общее/Город/Мир/Город/Районы/Растения/Травм. пункт.md",
     "SoKF/Общее/Город/Пикси/Без названия",
     "SoKF/Общее/Город/Пикси",
     "SoKF/Игроки/Беженцы/Без названия",
