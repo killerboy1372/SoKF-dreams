@@ -11,10 +11,15 @@
             "id": "b374b4e88c95aca3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "NeraWork/Test.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Test"
             }
           }
         ]
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NeraWork/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -139,6 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "NeraWork/Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -167,8 +174,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a408484d19ce95c3",
+  "active": "fea171aaeebf5181",
   "lastOpenFiles": [
+    "NeraWork/Test.md",
+    "NeraWork",
     "poom.md",
     "SoKF/Общее/Город/Мир/Город/Районы/Земля/Хранилище Документов.md",
     "SoKF/Игроки/Беженцы/GTpanik.md",
@@ -195,7 +204,6 @@
     "SoKF/Общее/Город/Мир/Город/Районы/Холод/Склад.md",
     "SoKF/Общее/Город/Мир/Город/Районы/Растения/Сады.md",
     "SoKF/Общее/Город/Мир/Город/Районы/Растения/Растения.md",
-    "SoKF/Общее/Город/Мир/Город/Районы/Растения/Травм. пункт.md",
     "SoKF/Общее/Город/Пикси/Без названия",
     "SoKF/Общее/Город/Пикси",
     "SoKF/Игроки/Беженцы/Без названия",
@@ -204,7 +212,6 @@
     "SoKF/Общее/Город/Ад/Хаб/Осень",
     "SoKF/Общее/Город/Ад/Хаб/Лето",
     "SoKF/Общее/Город/Ад/Хаб",
-    "SoKF/Общее/Город/Ад/Ветки/Зеленая ветка",
     "SoKF/Без названия.canvas",
     "Без названия/Без названия.canvas"
   ]
