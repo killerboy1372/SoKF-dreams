@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9e9fdd56ed1b1df3",
+        "id": "2160b2e37e84668c",
         "type": "tabs",
         "children": [
           {
-            "id": "0484a1900052e02b",
+            "id": "b374b4e88c95aca3",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 200
   },
   "right": {
     "id": "c0a3c0bb35ce4e59",
@@ -146,23 +146,13 @@
               "icon": "lucide-list",
               "title": "Структура"
             }
-          },
-          {
-            "id": "318cf349a1cfd492",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 467.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,9 +167,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0484a1900052e02b",
+  "active": "a408484d19ce95c3",
   "lastOpenFiles": [
     "poom.md",
+    "SoKF/Общее/Город/Мир/Город/Районы/Земля/Хранилище Документов.md",
     "SoKF/Игроки/Беженцы/GTpanik.md",
     "SoKF/Игроки/Беженцы/pr1nc1.md",
     "SoKF/Игроки/Беженцы/chacknoris158.md",
@@ -205,7 +196,6 @@
     "SoKF/Общее/Город/Мир/Город/Районы/Растения/Сады.md",
     "SoKF/Общее/Город/Мир/Город/Районы/Растения/Растения.md",
     "SoKF/Общее/Город/Мир/Город/Районы/Растения/Травм. пункт.md",
-    "SoKF/Общее/Город/Мир/Город/Районы/Растения/Переговорная.md",
     "SoKF/Общее/Город/Пикси/Без названия",
     "SoKF/Общее/Город/Пикси",
     "SoKF/Игроки/Беженцы/Без названия",
